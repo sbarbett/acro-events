@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Acro Events Calendar</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <h1>Events Calendar</h1>
+      <p id="range-info" class="muted"></p>
+      <div class="legend">
+        <span class="legend-item type-double_xp">Double XP</span>
+        <span class="legend-item type-triple_xp">Triple XP</span>
+        <span class="legend-item type-quadruple_xp">Quadruple XP</span>
+        <span class="legend-item type-double_aether_shards">Double Aether Shards</span>
+        <span class="legend-item type-double_quest_points">Double Quest Points</span>
+        <span class="legend-item type-double_random_encounters">Double Random Encounters</span>
+      </div>
+    </header>
+
+    <main>
+      <div id="calendar" class="calendar" aria-live="polite">
+        <div class="loading">Loading events...</div>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <span id="tz"></span>
+      <span>•</span>
+      <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">Published on GitHub Pages</a>
+    </footer>
+
+    <script src="./script.js" defer></script>
+  </body>
+  </html>
+
