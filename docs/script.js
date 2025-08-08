@@ -198,11 +198,11 @@
       case "quadruple_xp":
         return "Quadruple XP";
       case "double_aether_shards":
-        return "Double Aether Shards";
+        return "Double Shards";
       case "double_quest_points":
-        return "Double Quest Points";
+        return "Double QP";
       case "double_random_encounters":
-        return "Double Random Encounters";
+        return "Double Encounter";
       default:
         return type.replace(/_/g, " ").replace(/\b\w/g, (m) => m.toUpperCase());
     }
