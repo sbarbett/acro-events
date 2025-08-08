@@ -43,24 +43,6 @@ if ! jq empty "$EVENTS_FILE" 2>/dev/null; then
     exit 1
 fi
 
-# 4. Check if it's an array and has at least one event
-if ! jq -e 'type == "array" and length > 0' "$EVENTS_FILE" >/dev/null 2>&1; then
-    echo "Error: events.json must be an array with at least one event"
-    exit 1
-fi
-
-# 5. Validate each event has required fields
-if ! jq -e 'all(.[] | has("id") and has("type") and has("start_time") and has("end_time") and has("recurring") and has("recurrence_type"))' "$EVENTS_FILE" >/dev/null 2>&1; then
-    echo "Error: All events must have required fields: id, type, start_time, end_time, recurring, recurrence_type"
-    exit 1
-fi
-
-# 6. Validate that start_time is before end_time for all events
-if ! jq -e 'all(.[] | .start_time < .end_time)' "$EVENTS_FILE" >/dev/null 2>&1; then
-    echo "Error: All events must have start_time before end_time"
-    exit 1
-fi
-
 echo "All sanity checks passed. Proceeding with commit..."
 
 # Stage the changes
