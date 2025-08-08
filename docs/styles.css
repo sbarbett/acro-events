@@ -153,3 +153,38 @@ main { padding: 0 16px 40px; }
   main { padding: 0 24px 60px; }
 }
 
+/* Mobile-first responsive adjustments without affecting desktop */
+@media (max-width: 720px) {
+  .site-header { padding: 20px 16px 6px; }
+  .site-header h1 { font-size: 22px; }
+  #range-info { font-size: 12px; }
+
+  /* Hide weekday row and reflow days into a vertical list */
+  .weekday-grid { display: none; }
+  .days-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .day-spacer { display: none; }
+
+  .month-header { padding: 6px 0 8px; }
+  .month-title { font-size: 16px; }
+
+  .day-card {
+    min-height: unset;
+    padding: 10px;
+  }
+  .day-header { margin-bottom: 6px; }
+  .day-header .weekday { font-size: 11px; }
+
+  .event { gap: 6px; }
+  .event .badge { font-size: 10px; padding: 2px 6px; }
+  .event .time { font-size: 11px; }
+
+  .legend { gap: 8px; }
+  .legend-item { font-size: 11px; padding: 5px 8px; }
+
+  .site-footer { padding: 20px 12px 32px; font-size: 12px; }
+}
+
