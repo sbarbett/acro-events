@@ -38,21 +38,5 @@
     "end_time": 1755043200,
     "recurring": true,
     "recurrence_type": "weekly"
-  },
-  {
-    "id": "689585b7-0003-0001-6895-689685b70003",
-    "type": "triple_xp",
-    "start_time": 1754629559,
-    "end_time": 1754802359,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
-    "id": "689585af-0002-0001-6895-689785af0002",
-    "type": "double_random_encounters",
-    "start_time": 1754629551,
-    "end_time": 1754802351,
-    "recurring": false,
-    "recurrence_type": "none"
   }
 ]
