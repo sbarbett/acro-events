@@ -18,6 +18,10 @@
   /* Adjusted to be more distinct from green (Double XP) and red (Quad XP) */
   --color-double-qp: #3b82f6; /* Blue */
   --color-double-re: #06b6d4; /* Cyan */
+  /* New drop chance event colors */
+  --color-quadruple-drop-chance: #ff6b6b; /* Red-orange */
+  --color-triple-drop-chance: #ffa726; /* Orange */
+  --color-double-drop-chance: #66bb6a; /* Green */
 }
 
 * { box-sizing: border-box; }
@@ -53,6 +57,9 @@ body {
 .legend-item.type-double_aether_shards { border-color: color-mix(in srgb, var(--color-double-aether) 40%, transparent); background: color-mix(in srgb, var(--color-double-aether) 12%, transparent); }
 .legend-item.type-double_quest_points { border-color: color-mix(in srgb, var(--color-double-qp) 40%, transparent); background: color-mix(in srgb, var(--color-double-qp) 12%, transparent); }
 .legend-item.type-double_random_encounters { border-color: color-mix(in srgb, var(--color-double-re) 40%, transparent); background: color-mix(in srgb, var(--color-double-re) 12%, transparent); }
+.legend-item.type-quadruple_drop_chance { border-color: color-mix(in srgb, var(--color-quadruple-drop-chance) 40%, transparent); background: color-mix(in srgb, var(--color-quadruple-drop-chance) 12%, transparent); }
+.legend-item.type-triple_drop_chance { border-color: color-mix(in srgb, var(--color-triple-drop-chance) 40%, transparent); background: color-mix(in srgb, var(--color-triple-drop-chance) 12%, transparent); }
+.legend-item.type-double_drop_chance { border-color: color-mix(in srgb, var(--color-double-drop-chance) 40%, transparent); background: color-mix(in srgb, var(--color-double-drop-chance) 12%, transparent); }
 
 main { padding: 0 16px 40px; }
 
@@ -134,6 +141,9 @@ main { padding: 0 16px 40px; }
 .event.double_aether_shards .badge { background: color-mix(in srgb, var(--color-double-aether) 12%, transparent); border-color: color-mix(in srgb, var(--color-double-aether) 60%, transparent); color: #eedaf6; }
 .event.double_quest_points .badge { background: color-mix(in srgb, var(--color-double-qp) 12%, transparent); border-color: color-mix(in srgb, var(--color-double-qp) 60%, transparent); color: #d5fff4; }
 .event.double_random_encounters .badge { background: color-mix(in srgb, var(--color-double-re) 12%, transparent); border-color: color-mix(in srgb, var(--color-double-re) 60%, transparent); color: #ffd6e6; }
+.event.quadruple_drop_chance .badge { background: color-mix(in srgb, var(--color-quadruple-drop-chance) 12%, transparent); border-color: color-mix(in srgb, var(--color-quadruple-drop-chance) 60%, transparent); color: #ffe6e6; }
+.event.triple_drop_chance .badge { background: color-mix(in srgb, var(--color-triple-drop-chance) 12%, transparent); border-color: color-mix(in srgb, var(--color-triple-drop-chance) 60%, transparent); color: #fff3e0; }
+.event.double_drop_chance .badge { background: color-mix(in srgb, var(--color-double-drop-chance) 12%, transparent); border-color: color-mix(in srgb, var(--color-double-drop-chance) 60%, transparent); color: #e8f5e8; }
 
 .loading { color: var(--muted); padding: 24px; }
 

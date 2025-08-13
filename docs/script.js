@@ -203,6 +203,12 @@
         return "Double QP";
       case "double_random_encounters":
         return "Double Encounter";
+      case "quadruple_drop_chance":
+        return "Quadruple Drops";
+      case "triple_drop_chance":
+        return "Triple Drops";
+      case "double_drop_chance":
+        return "Double Drops";
       default:
         return type.replace(/_/g, " ").replace(/\b\w/g, (m) => m.toUpperCase());
     }
