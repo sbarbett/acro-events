@@ -1,5 +1,13 @@
 [
   {
+    "id": "689f49fd-0000-0001-689f-689f49fd0000",
+    "type": "double_xp",
+    "start_time": 1755269629,
+    "end_time": 1755284029,
+    "recurring": false,
+    "recurrence_type": "none"
+  },
+  {
     "id": "68959822-0008-0001-6895-689d98220008",
     "type": "double_xp",
     "start_time": 1755295200,
