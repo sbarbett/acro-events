@@ -2,8 +2,8 @@
   {
     "id": "68959822-0008-0001-6895-689d98220008",
     "type": "double_xp",
-    "start_time": 1757109600,
-    "end_time": 1757116800,
+    "start_time": 1757714400,
+    "end_time": 1757721600,
     "recurring": true,
     "recurrence_type": "weekly"
   },
