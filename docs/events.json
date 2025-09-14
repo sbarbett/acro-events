@@ -50,8 +50,8 @@
   {
     "id": "689d4fb2-0001-0001-689d-689c4fb20001",
     "type": "triple_drop_chance",
-    "start_time": 1757721600,
-    "end_time": 1757808000,
+    "start_time": 1758326400,
+    "end_time": 1758412800,
     "recurring": true,
     "recurrence_type": "weekly"
   }
