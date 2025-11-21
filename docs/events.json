@@ -26,8 +26,8 @@
   {
     "id": "68958748-0005-0001-6895-689087480005",
     "type": "double_aether_shards",
-    "start_time": 1763596800,
-    "end_time": 1763683200,
+    "start_time": 1764201600,
+    "end_time": 1764288000,
     "recurring": true,
     "recurrence_type": "weekly"
   },
