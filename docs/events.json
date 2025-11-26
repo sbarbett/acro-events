@@ -18,8 +18,8 @@
   {
     "id": "689586d9-0004-0001-6895-689186d90004",
     "type": "double_quest_points",
-    "start_time": 1764028800,
-    "end_time": 1764115200,
+    "start_time": 1764633600,
+    "end_time": 1764720000,
     "recurring": true,
     "recurrence_type": "weekly"
   },
