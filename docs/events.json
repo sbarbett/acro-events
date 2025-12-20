@@ -1,5 +1,21 @@
 [
   {
+    "id": "6946d790-0001-0001-6946-6947d7900001",
+    "type": "double_quest_points",
+    "start_time": 1766250384,
+    "end_time": 1766257584,
+    "recurring": false,
+    "recurrence_type": "none"
+  },
+  {
+    "id": "6946d74b-0000-0001-6946-6946d74b0000",
+    "type": "quadruple_xp",
+    "start_time": 1766250315,
+    "end_time": 1766257515,
+    "recurring": false,
+    "recurrence_type": "none"
+  },
+  {
     "id": "689d4fb2-0001-0001-689d-689c4fb20001",
     "type": "triple_drop_chance",
     "start_time": 1766188800,
