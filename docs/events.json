@@ -16,14 +16,6 @@
     "recurrence_type": "none"
   },
   {
-    "id": "695d81ff-0000-0001-695d-695d81ff0000",
-    "type": "triple_xp",
-    "start_time": 1767735807,
-    "end_time": 1767750207,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
     "id": "689d4fb2-0001-0001-689d-689c4fb20001",
     "type": "triple_drop_chance",
     "start_time": 1768003200,
