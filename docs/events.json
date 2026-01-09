@@ -1,5 +1,29 @@
 [
   {
+    "id": "69611b0e-0002-0001-6961-69631b0e0002",
+    "type": "double_aether_shards",
+    "start_time": 1767971598,
+    "end_time": 1767985998,
+    "recurring": false,
+    "recurrence_type": "none"
+  },
+  {
+    "id": "69611b02-0001-0001-6961-69601b020001",
+    "type": "double_random_encounters",
+    "start_time": 1767971586,
+    "end_time": 1767985986,
+    "recurring": false,
+    "recurrence_type": "none"
+  },
+  {
+    "id": "69611af8-0000-0001-6961-69611af80000",
+    "type": "triple_xp",
+    "start_time": 1767971576,
+    "end_time": 1767985976,
+    "recurring": false,
+    "recurrence_type": "none"
+  },
+  {
     "id": "68959822-0008-0001-6895-689d98220008",
     "type": "double_xp",
     "start_time": 1767996000,
