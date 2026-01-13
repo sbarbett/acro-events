@@ -1,33 +1,17 @@
 [
   {
-    "id": "68959822-0008-0001-6895-689d98220008",
+    "id": "689d4fb2-0001-0001-689d-689c4fb20001",
+    "type": "triple_drop_chance",
+    "start_time": 1768608000,
+    "end_time": 1768694400,
+    "recurring": true,
+    "recurrence_type": "weekly"
+  },
+  {
+    "id": "689d4f47-0000-0001-689d-689d4f470000",
     "type": "double_xp",
-    "start_time": 1768600800,
-    "end_time": 1768608000,
-    "recurring": true,
-    "recurrence_type": "weekly"
-  },
-  {
-    "id": "68959424-0007-0001-6895-689294240007",
-    "type": "double_xp",
-    "start_time": 1768420800,
-    "end_time": 1768428000,
-    "recurring": true,
-    "recurrence_type": "weekly"
-  },
-  {
-    "id": "689587a6-0006-0001-6895-689387a60006",
-    "type": "triple_xp",
-    "start_time": 1768694400,
-    "end_time": 1768780800,
-    "recurring": true,
-    "recurrence_type": "weekly"
-  },
-  {
-    "id": "68958748-0005-0001-6895-689087480005",
-    "type": "double_aether_shards",
-    "start_time": 1768435200,
-    "end_time": 1768521600,
+    "start_time": 1768860000,
+    "end_time": 1768867200,
     "recurring": true,
     "recurrence_type": "weekly"
   },
@@ -40,18 +24,34 @@
     "recurrence_type": "weekly"
   },
   {
-    "id": "689d4f47-0000-0001-689d-689d4f470000",
-    "type": "double_xp",
-    "start_time": 1768255200,
-    "end_time": 1768262400,
+    "id": "68958748-0005-0001-6895-689087480005",
+    "type": "double_aether_shards",
+    "start_time": 1768435200,
+    "end_time": 1768521600,
     "recurring": true,
     "recurrence_type": "weekly"
   },
   {
-    "id": "689d4fb2-0001-0001-689d-689c4fb20001",
-    "type": "triple_drop_chance",
-    "start_time": 1768608000,
-    "end_time": 1768694400,
+    "id": "689587a6-0006-0001-6895-689387a60006",
+    "type": "triple_xp",
+    "start_time": 1768694400,
+    "end_time": 1768780800,
+    "recurring": true,
+    "recurrence_type": "weekly"
+  },
+  {
+    "id": "68959424-0007-0001-6895-689294240007",
+    "type": "double_xp",
+    "start_time": 1768420800,
+    "end_time": 1768428000,
+    "recurring": true,
+    "recurrence_type": "weekly"
+  },
+  {
+    "id": "68959822-0008-0001-6895-689d98220008",
+    "type": "double_xp",
+    "start_time": 1768600800,
+    "end_time": 1768608000,
     "recurring": true,
     "recurrence_type": "weekly"
   }
