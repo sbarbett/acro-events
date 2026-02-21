@@ -1,73 +1,9 @@
 [
   {
-    "id": "6997ade6-0003-0001-6997-6994ade60003",
-    "type": "double_random_encounters",
-    "start_time": 1771548134,
-    "end_time": 1771634534,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
-    "id": "6997ada9-0002-0001-6997-6995ada90002",
-    "type": "double_aether_shards",
-    "start_time": 1771548073,
-    "end_time": 1771634473,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
-    "id": "6997ad84-0001-0001-6997-6996ad840001",
-    "type": "double_quest_points",
-    "start_time": 1771548036,
-    "end_time": 1771634436,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
-    "id": "6997ad5e-0000-0001-6997-6997ad5e0000",
-    "type": "quadruple_xp",
-    "start_time": 1771547998,
-    "end_time": 1771634398,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
-    "id": "689d4fb2-0001-0001-689d-689c4fb20001",
-    "type": "triple_drop_chance",
-    "start_time": 1771632000,
-    "end_time": 1771718400,
-    "recurring": true,
-    "recurrence_type": "weekly"
-  },
-  {
-    "id": "689d4f47-0000-0001-689d-689d4f470000",
+    "id": "68959822-0008-0001-6895-689d98220008",
     "type": "double_xp",
-    "start_time": 1771884000,
-    "end_time": 1771891200,
-    "recurring": true,
-    "recurrence_type": "weekly"
-  },
-  {
-    "id": "689586d9-0004-0001-6895-689186d90004",
-    "type": "double_quest_points",
-    "start_time": 1771891200,
-    "end_time": 1771977600,
-    "recurring": true,
-    "recurrence_type": "weekly"
-  },
-  {
-    "id": "68958748-0005-0001-6895-689087480005",
-    "type": "double_aether_shards",
-    "start_time": 1772064000,
-    "end_time": 1772150400,
-    "recurring": true,
-    "recurrence_type": "weekly"
-  },
-  {
-    "id": "689587a6-0006-0001-6895-689387a60006",
-    "type": "triple_xp",
-    "start_time": 1771718400,
-    "end_time": 1771804800,
+    "start_time": 1772229600,
+    "end_time": 1772236800,
     "recurring": true,
     "recurrence_type": "weekly"
   },
@@ -80,11 +16,75 @@
     "recurrence_type": "weekly"
   },
   {
-    "id": "68959822-0008-0001-6895-689d98220008",
-    "type": "double_xp",
-    "start_time": 1771624800,
-    "end_time": 1771632000,
+    "id": "689587a6-0006-0001-6895-689387a60006",
+    "type": "triple_xp",
+    "start_time": 1771718400,
+    "end_time": 1771804800,
     "recurring": true,
     "recurrence_type": "weekly"
+  },
+  {
+    "id": "68958748-0005-0001-6895-689087480005",
+    "type": "double_aether_shards",
+    "start_time": 1772064000,
+    "end_time": 1772150400,
+    "recurring": true,
+    "recurrence_type": "weekly"
+  },
+  {
+    "id": "689586d9-0004-0001-6895-689186d90004",
+    "type": "double_quest_points",
+    "start_time": 1771891200,
+    "end_time": 1771977600,
+    "recurring": true,
+    "recurrence_type": "weekly"
+  },
+  {
+    "id": "689d4f47-0000-0001-689d-689d4f470000",
+    "type": "double_xp",
+    "start_time": 1771884000,
+    "end_time": 1771891200,
+    "recurring": true,
+    "recurrence_type": "weekly"
+  },
+  {
+    "id": "689d4fb2-0001-0001-689d-689c4fb20001",
+    "type": "triple_drop_chance",
+    "start_time": 1771632000,
+    "end_time": 1771718400,
+    "recurring": true,
+    "recurrence_type": "weekly"
+  },
+  {
+    "id": "6997ad5e-0000-0001-6997-6997ad5e0000",
+    "type": "quadruple_xp",
+    "start_time": 1771547998,
+    "end_time": 1771634398,
+    "recurring": false,
+    "recurrence_type": "none"
+  },
+  {
+    "id": "6997ad84-0001-0001-6997-6996ad840001",
+    "type": "double_quest_points",
+    "start_time": 1771548036,
+    "end_time": 1771634436,
+    "recurring": false,
+    "recurrence_type": "none"
+  },
+  {
+    "id": "6997ada9-0002-0001-6997-6995ada90002",
+    "type": "double_aether_shards",
+    "start_time": 1771548073,
+    "end_time": 1771634473,
+    "recurring": false,
+    "recurrence_type": "none"
+  },
+  {
+    "id": "6997ade6-0003-0001-6997-6994ade60003",
+    "type": "double_random_encounters",
+    "start_time": 1771548134,
+    "end_time": 1771634534,
+    "recurring": false,
+    "recurrence_type": "none"
   }
 ]
