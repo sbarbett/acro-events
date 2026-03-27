@@ -1,37 +1,5 @@
 [
   {
-    "id": "69c685d9-0003-0001-69c6-69c585d90003",
-    "type": "double_random_encounters",
-    "start_time": 1774618073,
-    "end_time": 1774632473,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
-    "id": "69c685c9-0002-0001-69c6-69c485c90002",
-    "type": "double_aether_shards",
-    "start_time": 1774618057,
-    "end_time": 1774632457,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
-    "id": "69c685be-0001-0001-69c6-69c785be0001",
-    "type": "double_quest_points",
-    "start_time": 1774618046,
-    "end_time": 1774632446,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
-    "id": "69c685b3-0000-0001-69c6-69c685b30000",
-    "type": "quadruple_xp",
-    "start_time": 1774618035,
-    "end_time": 1774632435,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
     "id": "68959822-0008-0001-6895-689d98220008",
     "type": "double_xp",
     "start_time": 1774648800,
