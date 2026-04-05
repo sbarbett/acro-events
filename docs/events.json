@@ -1,45 +1,5 @@
 [
   {
-    "id": "69d1cb4e-0004-0001-69d1-69d5cb4e0004",
-    "type": "triple_drop_chance",
-    "start_time": 1775356750,
-    "end_time": 1775374750,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
-    "id": "69d1cafc-0003-0001-69d1-69d2cafc0003",
-    "type": "double_aether_shards",
-    "start_time": 1775356668,
-    "end_time": 1775374668,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
-    "id": "69d1caf4-0002-0001-69d1-69d3caf40002",
-    "type": "double_quest_points",
-    "start_time": 1775356660,
-    "end_time": 1775374660,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
-    "id": "69d1caeb-0001-0001-69d1-69d0caeb0001",
-    "type": "double_random_encounters",
-    "start_time": 1775356651,
-    "end_time": 1775374651,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
-    "id": "69d1cac5-0000-0001-69d1-69d1cac50000",
-    "type": "quadruple_xp",
-    "start_time": 1775356613,
-    "end_time": 1775374613,
-    "recurring": false,
-    "recurrence_type": "none"
-  },
-  {
     "id": "689d4fb2-0001-0001-689d-689c4fb20001",
     "type": "triple_drop_chance",
     "start_time": 1775865600,
