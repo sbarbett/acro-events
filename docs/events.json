@@ -1,41 +1,9 @@
 [
   {
-    "id": "689d4fb2-0001-0001-689d-689c4fb20001",
-    "type": "triple_drop_chance",
-    "start_time": 1777680000,
-    "end_time": 1777766400,
-    "recurring": true,
-    "recurrence_type": "weekly"
-  },
-  {
-    "id": "689d4f47-0000-0001-689d-689d4f470000",
+    "id": "68959822-0008-0001-6895-689d98220008",
     "type": "double_xp",
-    "start_time": 1777932000,
-    "end_time": 1777939200,
-    "recurring": true,
-    "recurrence_type": "weekly"
-  },
-  {
-    "id": "689586d9-0004-0001-6895-689186d90004",
-    "type": "double_quest_points",
-    "start_time": 1777334400,
-    "end_time": 1777420800,
-    "recurring": true,
-    "recurrence_type": "weekly"
-  },
-  {
-    "id": "68958748-0005-0001-6895-689087480005",
-    "type": "double_aether_shards",
-    "start_time": 1777507200,
-    "end_time": 1777593600,
-    "recurring": true,
-    "recurrence_type": "weekly"
-  },
-  {
-    "id": "689587a6-0006-0001-6895-689387a60006",
-    "type": "triple_xp",
-    "start_time": 1777766400,
-    "end_time": 1777852800,
+    "start_time": 1777672800,
+    "end_time": 1777680000,
     "recurring": true,
     "recurrence_type": "weekly"
   },
@@ -48,10 +16,42 @@
     "recurrence_type": "weekly"
   },
   {
-    "id": "68959822-0008-0001-6895-689d98220008",
+    "id": "689587a6-0006-0001-6895-689387a60006",
+    "type": "triple_xp",
+    "start_time": 1777766400,
+    "end_time": 1777852800,
+    "recurring": true,
+    "recurrence_type": "weekly"
+  },
+  {
+    "id": "68958748-0005-0001-6895-689087480005",
+    "type": "double_aether_shards",
+    "start_time": 1777507200,
+    "end_time": 1777593600,
+    "recurring": true,
+    "recurrence_type": "weekly"
+  },
+  {
+    "id": "689586d9-0004-0001-6895-689186d90004",
+    "type": "double_quest_points",
+    "start_time": 1777939200,
+    "end_time": 1778025600,
+    "recurring": true,
+    "recurrence_type": "weekly"
+  },
+  {
+    "id": "689d4f47-0000-0001-689d-689d4f470000",
     "type": "double_xp",
-    "start_time": 1777672800,
-    "end_time": 1777680000,
+    "start_time": 1777932000,
+    "end_time": 1777939200,
+    "recurring": true,
+    "recurrence_type": "weekly"
+  },
+  {
+    "id": "689d4fb2-0001-0001-689d-689c4fb20001",
+    "type": "triple_drop_chance",
+    "start_time": 1777680000,
+    "end_time": 1777766400,
     "recurring": true,
     "recurrence_type": "weekly"
   }
