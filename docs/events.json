@@ -34,8 +34,8 @@
   {
     "id": "689587a6-0006-0001-6895-689387a60006",
     "type": "triple_xp",
-    "start_time": 1780790400,
-    "end_time": 1780876800,
+    "start_time": 1781395200,
+    "end_time": 1781481600,
     "recurring": true,
     "recurrence_type": "weekly"
   },
