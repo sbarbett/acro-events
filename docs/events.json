@@ -1,5 +1,21 @@
 [
   {
+    "id": "6a3d72a5-0001-0001-6a3d-6a3c72a50001",
+    "type": "double_quest_points",
+    "start_time": 1782411941,
+    "end_time": 1782426341,
+    "recurring": false,
+    "recurrence_type": "none"
+  },
+  {
+    "id": "6a3d7291-0000-0001-6a3d-6a3d72910000",
+    "type": "quadruple_xp",
+    "start_time": 1782411921,
+    "end_time": 1782426321,
+    "recurring": false,
+    "recurrence_type": "none"
+  },
+  {
     "id": "68959822-0008-0001-6895-689d98220008",
     "type": "double_xp",
     "start_time": 1782511200,
